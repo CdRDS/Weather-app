@@ -1,4 +1,4 @@
-Weather app with dynamic backgrounds written in react
+Weather app with dynamic backgrounds written in react and styled with tailwind
 
 # React + Vite
 
